@@ -1,11 +1,11 @@
 github_users:
   - torvalds
-  - alshedivat
+  - kohsheen1234
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
+  - kohsheen1234/al-folio
   - jekyll/jekyll
   - twbs/bootstrap
   - jquery/jquery
